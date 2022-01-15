@@ -1,0 +1,53 @@
+body{
+  font-family: 'Montserrat', sans-serif;;
+}
+
+.stone{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.about-stone{
+  position: absolute;
+  top: 60px;
+  left: 80px;
+}
+.snonestext p{
+  position: relative
+  top 0;
+  left: 0;
+}
+
+.centered-stones {
+  position: absolute;
+  margin-right: auto;
+  margin-left: auto;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: large;
+  color:black;
+  font-weight: 800;
+}
+
+.btn-light{
+  font-weight: 700;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.iwt{
+  display:block;
+  
+}
+
+span{
+  font-family: 'Montserrat', sans-serif;
+  font-size: x-large;
+  color: black;
+  font-weight: 700;
+  margin-top: 1cm;
+}
+
+
